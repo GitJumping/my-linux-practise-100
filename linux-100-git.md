@@ -37,7 +37,6 @@ git push --set-upstream linux100 main
 # 给远程仓库设置token
 
 ```shell
-
 git remote set-url linux100 https://github.com/GitJumping/my-linux-practise-100.git
 ```
 
